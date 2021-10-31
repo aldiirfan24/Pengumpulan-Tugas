@@ -1,0 +1,46 @@
+
+
+
+selector: id, class, nama tag
+
+nama tag = 1
+class = 2
+id = 100
+
+styling: 
+	- property
+	- value
+
+selector {
+	styling
+}
+
+
+
+
+
+
+
+rata tengah 
+rata kiri
+rata kanan
+rata bawah
+tengah - tengah
+
+sama rata
+sama rata berdempet
+
+wrap -> kiri ke kanan -> horizontal
+align -> row : column
+
+colum -> atas ke bawah -> vertical
+aligj -> column : row
+
+
+
+
+
+
+
+
+
